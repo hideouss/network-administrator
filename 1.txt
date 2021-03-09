@@ -1,2 +1,3 @@
 command: dig fastly.cdn.snapcraft.io   
-add a nwe line in /etc/hosts    202.46.30.187(DNS checker service on web to get the nearest ip of fastly.cdn.snapcraft.io)
+add a nwe line in /etc/hosts    202.46.30.187(DNS checker service on web to get the nearest fastly
+CDN node ip of fastly.cdn.snapcraft.io)
